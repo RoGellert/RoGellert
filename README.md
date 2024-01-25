@@ -1,12 +1,15 @@
-### Hi there 👋
-### Thanks for checking out my github !!! It's much appreciated
+### Hi there 👋. Thanks for checking out my github !!! It's much appreciated.
 
-### My name is Roman. I'm currently pursuing Masters degree in Data Science at University of Padua in Italy. I have obtained my bachelors specializing in Data Engineering.
-### My fields of interests are machine learning, big data, backend and game development. 
-### I'm most proficient in python, but additionally know C/C++ and javascript and currently learning Rust to spice up my life a little bit.
-### I know a variety of tools, libraries and frameworks for ML, Data Science and Software development in genral (i.e Pytorch, MySQL, PostgresSQL, Git, Docker ...)
+My name is Roman. I'm currently pursuing Masters degree in Data Science at University of Padua in Italy. I have obtained my bachelors specializing in Data Engineering. My fields of interests are machine learning, big data, backend and game development. 
 
-### 
+I'm most proficient in python, but additionally know C/C++ and javascript and currently learning Rust to spice up my life a little bit. I know a variety of tools, libraries and frameworks for ML, Data Science and Software development in genral (i.e Pytorch, MySQL, PostgresSQL, Git, Docker ...)
+
+I can speak Russian, English and Polish. Also I'm currently learning Italian.
+
+[My linkedin](www.linkedin.com/in/romangellert)
+[My lettcode profile](https://leetcode.com/Rogel2022/)
+
+I'm trying to consistently commit to various personal repos (either projects i make myself or tutorial projects in a new language (i.e Rust)) to keep the skills sharp. 
 
 <!--
 **RoGellert/RoGellert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
