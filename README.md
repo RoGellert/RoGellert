@@ -1,4 +1,12 @@
 ### Hi there 👋
+### Thanks for checking out my github !!! It's much appreciated
+
+### My name is Roman. I'm currently pursuing Masters degree in Data Science at University of Padua in Italy. I have obtained my bachelors specializing in Data Engineering.
+### My fields of interests are machine learning, big data, backend and game development. 
+### I'm most proficient in python, but additionally know C/C++ and javascript and currently learning Rust to spice up my life a little bit.
+### I know a variety of tools, libraries and frameworks for ML, Data Science and Software development in genral (i.e Pytorch, MySQL, PostgresSQL, Git, Docker ...)
+
+### 
 
 <!--
 **RoGellert/RoGellert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
