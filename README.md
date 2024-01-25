@@ -6,7 +6,7 @@ I'm most proficient in python, but additionally know C/C++ and javascript and cu
 
 I can speak Russian, English and Polish. Also I'm currently learning Italian.
 
-[My linkedin](www.linkedin.com/in/romangellert)
+[My linkedin](www.linkedin.com/in/romangellert/)
 
 [My lettcode profile](https://leetcode.com/Rogel2022/)
 
