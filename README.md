@@ -1,10 +1,10 @@
-### Hi there 👋. Thanks for checking out my github !!! It's much appreciated.
+### Hi there 👋. Thanks for checking out my github !!!
 
-My name is Roman. I'm currently pursuing Masters degree in Data Science at University of Padua in Italy. I have obtained my bachelors specializing in Data Engineering. My fields of interest are machine learning, big data, backend and game development. 
+My name is Roman. I'm currently pursuing Master's degree in Data Science at University of Padua in Italy. I have obtained my Bachelor's specializing in Data Engineering. My fields of interest are machine learning, big data, backend and game development. 
 
-I'm most proficient in python, but additionally know C/C++ and javascript and currently learning Rust to spice up my life a little bit. I know a variety of tools, libraries and frameworks for ML, Data Science and Software development in general (i.e Pytorch, MySQL, PostgresSQL, Git, Docker ...)
+I'm most proficient in python, but additionally know C/C++, JavaScript. I'm also currently learning Rust to spice up my life a little bit. I know a variety of tools, libraries and frameworks for ML, Data Science and Software development in general (i.e Pytorch, Pandas, Flask, MySQL, PostgresSQL, Git, Docker, AWS ...) in addition to various concepts (i.e OOP or SOLID). 
 
-I can speak Russian, English and Polish. Also I'm currently learning Italian.
+I can speak Russian, English and Polish. Additionally, I'm currently learning Italian.
 
 [My linkedin](https://linkedin.com/in/romangellert/)
 
