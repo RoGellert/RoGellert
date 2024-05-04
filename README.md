@@ -1,4 +1,4 @@
-### Hi there 👋. Thanks for checking out my github !!!
+### Yep, that's my github
 
 My name is Roman. I'm currently pursuing Master's degree in Data Science at University of Padua in Italy. I have obtained my Bachelor's specializing in Data Engineering. My fields of interest are machine learning, big data, backend and game development. 
 
